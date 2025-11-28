@@ -1,0 +1,8 @@
+
+PNR:900696
+Train_no:1
+Name :TEJAS
+Mobile Number :7428907063
+Destination:noida
+Departure:noida
+Fare: Rs. 500
